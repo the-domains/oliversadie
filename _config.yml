@@ -1,0 +1,23 @@
+name: oliversadie
+favicon: null
+layout_spectrum: 0.8460962113458663
+typography_spectrum: 0.9556686645373702
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9449554039165378
+  lightness: 0.45034421794116497
+  saturation: 0.9659647361841053
+  rhythmicContrast: 0.11043997551314533
+purpose: []
